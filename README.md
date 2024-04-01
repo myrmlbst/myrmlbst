@@ -8,5 +8,5 @@ I'm also curious about and experienced in the field of artificial intelligence, 
 - 🌐 Databases and APIs: MongoDB, RestAPI
   
 ### 🤖 Artificial Intelligence:
-- Python, NumPy
+- Python, NumPy, TensorFlow
 > Currently learning more frameworks for AI and machine learning
