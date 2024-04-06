@@ -11,4 +11,4 @@ I'm also curious about and experienced in the field of artificial intelligence, 
 - 🐍 Python, NumPy, TensorFlow
 - 📄 Currently learning more frameworks for AI and machine learning
 
-> Some additional technologies I've delved in on the side: C++, C#, .NET, MySQL, Swift
+> Some additional technologies I've delved in on the side: MIPS Assembly Language, C++, C#, .NET, MySQL, Swift
