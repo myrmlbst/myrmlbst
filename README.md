@@ -4,14 +4,14 @@ I'm also curious about and experienced in the field of artificial intelligence, 
 
 ## Tech Stack
 ### 💻 Web & Mobile Development:
-- 🛠 Languages and Frameworks: Javascipt, HTML/CSS, React.js, Node.js, React Native
-- 🌐 Databases and APIs: MongoDB, RestAPI
+- 🛠 Languages and Frameworks: Javascipt, Typescript, HTML/CSS, TailwindCSS, React.js, Node.js
+- 🌐 Databases and APIs: MySQL, PostgreSQL, MongoDB, RestAPI
   
 ### 🤖 Artificial Intelligence:
 - 🐍 Python, NumPy, TensorFlow
 - 📄 Currently learning more frameworks for AI and machine learning
 
-> Some additional technologies I've delved in on the side: MIPS Assembly Language, C++, C#, .NET, MySQL, Swift
+> Some additional technologies I've delved in on the side: MIPS Assembly Language, C++, C#, .NET, Swift
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myrmlbst&theme=tokyonight&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&langs_count=9)
