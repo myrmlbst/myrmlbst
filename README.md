@@ -5,7 +5,8 @@ I'm also curious about and experienced in the field of artificial intelligence, 
 ## Tech Stack
 ### 💻 Web & Mobile Development:
 - 🛠 Languages and Frameworks: JavaScript, TypeScript, HTML/CSS, TailwindCSS, React.js, Node.js
-- 🌐 Databases and APIs: MySQL, PostgreSQL, MongoDB, RestAPI
+- 🌐 Databases and Backend: MongoDB, Express.js, Node.js, PostgreSQL, mySQL
+- 📱Mobile Applications: Swift (iOS), React Native (Cross-Platform)
   
 ### 🤖 Artificial Intelligence:
 - 🐍 Python, Pandas, TensorFlow, Scikit
