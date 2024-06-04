@@ -15,9 +15,9 @@ I'm also curious about and experienced in the field of artificial intelligence, 
 > Some additional technologies I've delved in on the side: MIPS Assembly Language, C#, .NET, Swift
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myrmlbst&theme=tokyonight&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&langs_count=76)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=100jsfunctions,nasa-apod-fetcher,timecomplexityfetcher&langs_count=76)
 
 <!---
 COMMENTS:
-
+- removed JAVASCRIPT repos: 100jsfunctions, nasa-apod-fetcher, timecomplexityfetcher
 -->
