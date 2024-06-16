@@ -12,7 +12,7 @@ I'm also curious about and experienced in the field of artificial intelligence, 
 - 🐍 Python, Pandas, TensorFlow, Scikit
 - 📄 Currently learning more frameworks for AI and machine learning
 
-> some additional technologies I've delved in on the side: MIPS Assembly Language, C#, .NET
+> some additional technologies I've delved in on the side: C#, .NET
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=false&theme=tokyonight&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=100jsfunctions,nasa-apod-fetcher,timecomplexityfetcher&langs_count=76)
