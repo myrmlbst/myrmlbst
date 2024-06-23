@@ -12,12 +12,14 @@ I'm also curious about and experienced in the field of artificial intelligence, 
 - 🐍 Python, Pandas, TensorFlow, Scikit
 - 📄 Currently learning more frameworks for AI and machine learning
 
-> some additional technologies I've delved in on the side: C#, .NET
+> Some additional technologies I've delved in on the side: C#, .NET, Assembly, Java
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=false&theme=tokyonight&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=100jsfunctions,nasa-apod-fetcher,timecomplexityfetcher&langs_count=76)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=100jsfunctions,nasa-apod-fetcher,timecomplexityfetcher,transmission-control-program,videogame.asm&langs_count=10)
 
 <!---
 COMMENTS:
 - removed JAVASCRIPT repos: 100jsfunctions, nasa-apod-fetcher, timecomplexityfetcher
+- removed JAVA repos: transmission-control-program
+- removed ASSEMBLY repos: videogame.asm
 -->
