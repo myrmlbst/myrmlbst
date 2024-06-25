@@ -12,7 +12,7 @@ I'm also curious about and experienced in the field of artificial intelligence, 
 - 🐍 Python, Pandas, TensorFlow, Scikit
 - 📄 Currently learning more frameworks for AI and machine learning
 
-> Some additional technologies I've delved in on the side: C#, .NET, Assembly, Java
+> Some additional technologies I've delved in on the side: C#, .NET, Assembly, Java, MATLAB
 
 <div align="left">
   <div>
