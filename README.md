@@ -17,7 +17,7 @@ I'm also curious about and experienced in the field of artificial intelligence, 
 <div align="left">
   <div>
     <a href="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=false&theme=tokyonight&rank_icon=github">
-      <img height=200 src="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=false&theme=tokyonight&rank_icon=github">    
+      <img height=200 src="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=true&theme=tokyonight&rank_icon=github">    
     </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=100jsfunctions,nasa-apod-fetcher,timecomplexityfetcher,transmission-control-program,videogame.asm,matlab-prep&langs_count=10">
       <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=100jsfunctions,nasa-apod-fetcher,timecomplexityfetcher,transmission-control-program,videogame.asm,matlab-prep&langs_count=10">
