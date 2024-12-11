@@ -1,16 +1,16 @@
 # :wave: Hi there, I'm Myriam
-I'm a third year computer science student with a passion for developing robust software that facilitates our every day lives. My expertise lies in full-stack development for both web and mobile apps using JavaScript, React.js, Node.js, React Native, etc. 
-I'm also curious about and experienced in the field of artificial intelligence, natural language processing, and computational linguistics.
+I'm a third year computer science student with a passion for developing robust software that facilitates our every day lives. My expertise lies in full-stack development for both web and mobile apps using TypeScript, React.js, Node.js, React Native, etc. 
+I'm also curious about and experienced in the field of artificial intelligence, natural language processing, and computational linguistics. I can speak 3 languages fluently (English C1, Arabic C1, French B2), and am currently learning my fourth and fifth.
 
 ## Tech Stack
 ### 💻 Web & Mobile Development:
-- 🛠 Languages and Frameworks: JavaScript, TypeScript, HTML/CSS, TailwindCSS, React.js
-- 🌐 Databases and Backend: MongoDB, Express.js, Node.js, PostgreSQL, mySQL
+- 🛠 Languages and Frameworks: JavaScript/TypeScript, TailwindCSS, React.js
+- 🌐 Databases and Backend: Node.js, PHP, and various SQL db's
 - 📱Mobile Applications: Swift (iOS), React Native (Cross-Platform)
   
 ### 🤖 Artificial Intelligence:
-- 🐍 Python, Pandas, TensorFlow, Scikit
-- 📄 Currently learning more frameworks for AI and machine learning
+- 🐍 Python + Pandas, TensorFlow, Scikit
+- 📄 Currently learning more libraries & frameworks for AI/ML
 
 > Some additional technologies I've delved in on the side: C#, .NET, Assembly, Java, MATLAB
 
@@ -19,8 +19,8 @@ I'm also curious about and experienced in the field of artificial intelligence, 
     <a href="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=false&theme=tokyonight&rank_icon=github">
       <img height=200 src="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=true&theme=tokyonight&rank_icon=github">    
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=100jsfunctions,nasa-apod-fetcher,timecomplexityfetcher,transmission-control-program,videogame.asm,matlab-prep&langs_count=10">
-      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=100jsfunctions,nasa-apod-fetcher,timecomplexityfetcher,transmission-control-program,videogame.asm,matlab-prep&langs_count=10">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=100jsfunctions,nasa-apod-fetcher,timecomplexityfetcher,transmission-control-program,videogame.asm,matlab-prep&langs_count=9">
+      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=100jsfunctions,nasa-apod-fetcher,timecomplexityfetcher,transmission-control-program,videogame.asm,matlab-prep&langs_count=9">
     </a>
   </div>
 
