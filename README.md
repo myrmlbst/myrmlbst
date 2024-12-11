@@ -19,8 +19,8 @@ I'm also curious about and experienced in the field of artificial intelligence, 
     <a href="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=false&theme=tokyonight&rank_icon=github">
       <img height=200 src="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=true&theme=tokyonight&rank_icon=github">    
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=100jsfunctions,nasa-apod-fetcher,timecomplexityfetcher,transmission-control-program,videogame.asm,matlab-prep&langs_count=9">
-      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=100jsfunctions,nasa-apod-fetcher,timecomplexityfetcher,transmission-control-program,videogame.asm,matlab-prep&langs_count=9">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&hide=css,html,java&exclude_repo=100jsfunctions,nasa-apod-fetcher&langs_count=60">
+      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&hide=css,html,java&exclude_repo=100jsfunctions,nasa-apod-fetcher&langs_count=60">
     </a>
   </div>
 
