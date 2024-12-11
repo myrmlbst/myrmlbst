@@ -1,6 +1,9 @@
 # :wave: Hi there, I'm Myriam
-I'm a third year computer science student with a passion for developing robust software that facilitates our every day lives. My expertise lies in full-stack development for both web and mobile apps using TypeScript, React.js, Node.js, React Native, etc. 
-I'm also curious about and experienced in the field of artificial intelligence, natural language processing, and computational linguistics. I can speak 3 languages fluently (English C1, Arabic C1, French B2), and am currently learning my fourth and fifth.
+
+$_I'm a third year computer science student with a passion for developing robust software that facilitates our every day lives. My expertise lies in full-stack development for both web and mobile apps using TypeScript, React.js, Node.js, React Native, etc. 
+I'm also curious about and experienced in the field of artificial intelligence, natural language processing, and computational linguistics.
+
+$_I'm a language learning hobbyist who speaks 3 languages fluently (English C1, Arabic C1, French B2), and am currently learning my fourth and fifth (German and Russian).
 
 ## Tech Stack
 ### 💻 Web & Mobile Development:
