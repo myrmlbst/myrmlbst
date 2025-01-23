@@ -17,6 +17,14 @@ $_I'm a language learning hobbyist who speaks 3 languages fluently (English C1, 
 - 🐍 Python + Pandas, TensorFlow, Scikit
 - 📄 Currently learning more libraries & frameworks for AI/ML
 
+<!--
+### 🥷 Cybersecurity & Networks:
+- ⚔️ Red Team: Penetration testing via Kali Linux
+- 🛡️ Blue Team: Creating safe and secure applications. Specializations:
+  - Web Application Security
+  - Network Security
+-->
+
 > Some additional technologies I've delved in on the side: C#, .NET, Assembly, Ruby, MATLAB
 
 <div align="left">
