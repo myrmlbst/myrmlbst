@@ -32,8 +32,8 @@ $_I'm a language learning hobbyist who speaks 3 languages fluently (English C1, 
     <a href="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=true&show=prs_merged&theme=tokyonight&rank_icon=github">
       <img height=225 src="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=true&show=prs_merged&theme=tokyonight&rank_icon=github">    
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&hide=css,html&exclude_repo=100jsfunctions,nasa-apod-fetcher&langs_count=10">
-      <img height=225 src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&hide=css,html&exclude_repo=100jsfunctions,nasa-apod-fetcher&langs_count=10">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=100jsfunctions,nasa-apod-fetcher&langs_count=10">
+      <img height=225 src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=100jsfunctions,nasa-apod-fetcher&langs_count=10">
     </a>
   </div>
 
