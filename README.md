@@ -7,17 +7,6 @@ I'm also curious about and experienced in the field of artificial intelligence, 
 
 $_I'm a language learning hobbyist who speaks 3 languages fluently (English C1, Arabic C1, French B2), and am currently learning my fourth and fifth (German and Russian).
 
-## GitHub Stats
-
-<div align="center">
-  <div>
-    <a href="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=true&show=prs_merged&theme=tokyonight&rank_icon=github">
-      <img height=225 src="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=true&show=prs_merged&theme=tokyonight&rank_icon=github">    
-    </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=NDUevents,resume-template,loveatfirstsite.tech&langs_count=10">
-      <img height=225 src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=NDUevents,resume-template,loveatfirstsite.tech&langs_count=10">
-    </a>
-  </div>
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=false&theme=tokyonight&rank_icon=github)
