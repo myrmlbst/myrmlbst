@@ -2,50 +2,57 @@
 
 ### $whoami
 
-$_I'm a third year computer science student with a passion for developing robust software that facilitates our every day lives. My expertise lies in full-stack development for both web and mobile apps using TypeScript, React.js, Node.js, React Native, etc. 
-I'm also curious about and experienced in the field of artificial intelligence, natural language processing, and computational linguistics.
+$_I'm a third year computer science student with a passion for developing robust software that facilitates our every day lives. My expertise lies in full-stack development for both web and mobile apps using TypeScript, React.js, Next.js, React Native, etc. I'm also curious about and experienced in the field of cybersecurity, and have taught ethical hacking and penetration testing to undergraduate students (albeit my interests being more geared towards blue teaming :p). I use this knowledge in my software engineering projects to ensure the applications I develop are safe and secure.
 
-$_I'm a language learning hobbyist who speaks 3 languages fluently (English C1, Arabic C1, French B2), and am currently learning my fourth and fifth (German and Russian).
+$_I'm a language learning hobbyist who speaks 3 languages fluently (Arabic C1, English C1, French B2), and am currently learning my fourth and fifth (German and Mandarin).
+
+
 
 ## Tech Stack
 ### 💻 Web & Mobile Development:
 - 🛠 Languages and Frameworks: JavaScript/TypeScript, TailwindCSS, React.js
-- 🌐 Databases and Backend: Node.js, PHP, and various SQL db's
+- 🌐 Databases and Backend: Node.js, PHP, SQL/noSQL DB's
 - 📱Mobile Applications: Swift (iOS), React Native (Cross-Platform)
-  
-### 🤖 Artificial Intelligence:
-- 🐍 Python + Pandas, TensorFlow, Scikit
-- 📄 Currently learning more libraries & frameworks for AI/ML
 
-<!--
-### 🥷 Cybersecurity & Networks:
-- ⚔️ Red Team: Penetration testing via Kali Linux
-- 🛡️ Blue Team: Creating safe and secure applications. Specializations:
-  - Web Application Security
-  - Network Security
--->
+<div align="center">
+  <img
+      src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,postgres,docker,go"
+      class="h-16"
+  />
+</div>
+
+
+
+### 🔌 Developer Tools:
+<!-- - 🔧 Languages: Lua, Rust, C++ -->
+- ⚙️ Languages: C++, bash, zsh
+- 💾 Operating Systems: macOS, nixOS (Previously: Kali, Ubuntu)
+- Workflow: Check out my [dotfiles](https://github.com/myrmlbst/dotfiles)!
+
+<div align="center">
+  <img
+      src="https://skillicons.dev/icons?i=vim,bash,cpp,apple,nix"
+      class="h-16"
+  />
+</div>
+
+
+
+---
+
+
 
 > Some additional technologies I've delved in on the side: C#, .NET, Assembly, Ruby, MATLAB
 
 <div align="left">
   <div>
+    <!-- GITHUB STATS -->
     <a href="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=true&show=prs_merged&theme=tokyonight&rank_icon=github">
       <img height=225 src="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=true&show=prs_merged&theme=tokyonight&rank_icon=github">    
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=NDUevents,resume-template,loveatfirstsite.tech&langs_count=10">
-      <img height=225 src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=NDUevents,resume-template,loveatfirstsite.tech&langs_count=10">
+    <!-- MOST USED LANGUAGES -->
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=resume-template&hide=html,css,php&langs_count=8">
+      <img height=225 src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=resume-template&hide=html,css,php&langs_count=8">
     </a>
   </div>
-
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=false&theme=tokyonight&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=100jsfunctions,nasa-apod-fetcher,timecomplexityfetcher,transmission-control-program,videogame.asm,matlab-prep&langs_count=10)
--->
-
-<!---
-COMMENTS:
-- removed JAVASCRIPT repo(s): 100jsfunctions, nasa-apod-fetcher, timecomplexityfetcher
-- removed JAVA repo(s): transmission-control-program
-- removed ASSEMBLY repo(s): videogame.asm
-- removed MATLAB repo(s): matlab-prep
--->
+</div>
