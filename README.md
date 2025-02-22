@@ -16,7 +16,6 @@ $_I'm a language learning hobbyist who speaks 3 languages fluently (English C1, 
 ### 🤖 Artificial Intelligence:
 - 🐍 Python + Pandas, TensorFlow, Scikit
 - 📄 Currently learning more libraries & frameworks for AI/ML
-## GitHub Stats
 
 <!--
 ### 🥷 Cybersecurity & Networks:
@@ -29,6 +28,14 @@ $_I'm a language learning hobbyist who speaks 3 languages fluently (English C1, 
 > Some additional technologies I've delved in on the side: C#, .NET, Assembly, Ruby, MATLAB
 
 <div align="left">
+  <div>
+    <a href="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=true&show=prs_merged&theme=tokyonight&rank_icon=github">
+      <img height=225 src="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=true&show=prs_merged&theme=tokyonight&rank_icon=github">    
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=NDUevents,resume-template,loveatfirstsite.tech&langs_count=10">
+      <img height=225 src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=NDUevents,resume-template,loveatfirstsite.tech&langs_count=10">
+    </a>
+  </div>
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=false&theme=tokyonight&rank_icon=github)
