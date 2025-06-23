@@ -46,11 +46,11 @@ $ I'm a language learning hobbyist who speaks 3 languages fluently (Arabic C1, E
 
 > Some additional technologies I've delved in on the side: C#, .NET, Assembly, Ruby, MATLAB
 
-<div align="left">
+<div align="center">
   <div>
     <!-- GITHUB STATS -->
     <a href="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=true&theme=tokyonight&rank_icon=github">
-      <img height=225 width=500 src="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=true&theme=tokyonight&rank_icon=github">    
+      <img height=225 src="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=true&theme=tokyonight&rank_icon=github">    
     </a>
     <!-- MOST USED LANGUAGES -->
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=&hide=html,css,php&langs_count=10">
@@ -58,3 +58,6 @@ $ I'm a language learning hobbyist who speaks 3 languages fluently (Arabic C1, E
     </a>
   </div>
 </div>
+
+
+
