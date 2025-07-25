@@ -48,23 +48,13 @@ $ I'm a language learning hobbyist who speaks 3 languages fluently (Arabic C1, E
 
 
 <!-- GITHUB STATS -->
-<div align="left">
+<div align="center">
   <div>
     <a href="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=false&theme=tokyonight&rank_icon=github">
       <img height=200 src="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=true&theme=tokyonight&rank_icon=github">    
     </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&hide=css,html,java&exclude_repo=100jsfunctions,nasa-apod-fetcher&langs_count=10">
       <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&hide=css,html,java&exclude_repo=100jsfunctions,nasa-apod-fetcher&langs_count=10">
-    </a>
-  </div>
-
-    
-    <a href="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=true&show=prs_merged&theme=tokyonight&rank_icon=github">
-      <img height=225 src="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=true&show=prs_merged&theme=tokyonight&rank_icon=github">    
-    </a>
-    <!-- MOST USED LANGUAGES -->
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=&hide=html,css,php&langs_count=10">
-      <img height=225 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&exclude_repo=&hide=html,css,php&langs_count=10">
     </a>
   </div>
 </div>
