@@ -8,44 +8,7 @@ $ I'm also curious about and experienced in the field of cybersecurity, and have
 
 $ I'm a language learning hobbyist who speaks 3 languages fluently (Arabic C1, English C1, French B2), and am currently learning my fourth and fifth (German and Mandarin).
 
-
-
-## Tech Stack
-### 💻 Web & Mobile Development:
-- 🛠 Languages and Frameworks: JavaScript/TypeScript, TailwindCSS, React.js
-- 🌐 Databases and Backend: Node.js, PHP, SQL/noSQL DB's
-- 📱Mobile Applications: Swift (iOS), React Native (Cross-Platform)
-
-<div align="center">
-  <img
-      src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,postgres,docker,go"
-      class="h-16"
-  />
-</div>
-
-
-
-### 🔌 Developer Tools:
-<!-- - 🔧 Languages: Lua, Rust, C++ -->
-- ⚙️ Languages: C++, bash, zsh
-- 💾 Operating Systems: macOS, nixOS (Previously: Kali, Ubuntu)
-- Workflow: Check out my [dotfiles](https://github.com/myrmlbst/dotfiles)!
-
-<div align="center">
-  <img
-      src="https://skillicons.dev/icons?i=vim,bash,cpp,apple,nix"
-      class="h-16"
-  />
-</div>
-
-
-
 ---
-
-
-
-> Some additional technologies I've delved in on the side: C#, .NET, Assembly, Ruby, MATLAB
-
 
 <!-- GITHUB STATS -->
 <div align="center">
