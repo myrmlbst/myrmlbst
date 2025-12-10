@@ -7,20 +7,3 @@ $ I'm a third year computer science student with a passion for developing robust
 $ I'm also curious about and experienced in the field of cybersecurity, and have taught ethical hacking and penetration testing to undergraduate students (albeit my interests being more geared towards blue teaming :p). I use this knowledge in my professional and personal software engineering projects to ensure the applications I develop are safe and secure for end users.
 
 $ I'm a language learning hobbyist who speaks 3 languages fluently (Arabic C1, English C1, French B2), and am currently learning my fourth and fifth (German and Mandarin).
-
----
-
-<!-- GITHUB STATS -->
-<div align="center">
-  <div>
-    <a href="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=false&theme=tokyonight&rank_icon=github">
-      <img height=200 src="https://github-readme-stats.vercel.app/api?username=myrmlbst&show_icons=true&theme=tokyonight&rank_icon=github">    
-    </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&hide=css,html,java&exclude_repo=100jsfunctions,nasa-apod-fetcher&langs_count=10">
-      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrmlbst&layout=compact&theme=tokyonight&hide=css,html,java&exclude_repo=100jsfunctions,nasa-apod-fetcher&langs_count=10">
-    </a>
-  </div>
-</div>
-
-
-
